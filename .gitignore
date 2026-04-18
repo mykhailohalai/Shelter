@@ -1,0 +1,12 @@
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
